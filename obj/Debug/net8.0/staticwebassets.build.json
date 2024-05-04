@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "vc0OTxjbHkWKw8R6hoKv9+TdVWL9D0giECpxMMgikzw=",
+  "Source": "ApiSQLServer",
+  "BasePath": "_content/ApiSQLServer",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
